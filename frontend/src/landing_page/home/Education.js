@@ -22,7 +22,7 @@ function Education() {
          <div className="col-6">
             
 
-            <h1 className='mb-4'>Unbeatable pricing</h1>
+            <h1 className='mb-4'>Unbeatable pricings</h1>
            
             <p className='mb-2'>We pioneered the concept of discount broking and price transparency in India. Flat fees and no hidden charges.</p>
       <div className=''>
